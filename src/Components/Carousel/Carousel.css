@@ -1,0 +1,20 @@
+.container-carousel {
+    display: flex;
+}
+
+.container-image {
+    width: 100vw;
+    height: 400px;
+}
+
+.container-image:hover {
+    transition:hover transform 5s ease-in-out;
+}
+
+.carousel-slider{
+    height: 400px;
+}
+
+.carousel .slide img {
+    height: 400px;
+}
